@@ -1,4 +1,8 @@
 _repo: The-Adventures-of-Two-Alabama-Boys_48142
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48142-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Crumpton, H. J.
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '44642'
     url: http://www.gutenberg.org/2009/agents/44642
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48142#The-Adventures-of-Two-Alabama-Boys
 gutenberg_issued: '2015-02-02'
 gutenberg_type: Text
 identifiers:
